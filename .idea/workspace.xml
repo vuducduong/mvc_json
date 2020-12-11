@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="606a8c89-8079-4b2e-a74b-db8b61775801" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kGInCn1r4iJVc0A1XJCUuls1Xi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../case_studymodule2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="606a8c89-8079-4b2e-a74b-db8b61775801" name="Default Changelist" comment="" />
+      <created>1605320665965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605320665965</updated>
+      <workItem from="1605320667083" duration="2086000" />
+      <workItem from="1605362298118" duration="26000" />
+      <workItem from="1606058617645" duration="1585000" />
+      <workItem from="1606060370651" duration="1815000" />
+      <workItem from="1606096312298" duration="138000" />
+      <workItem from="1606096480153" duration="13000" />
+      <workItem from="1606115956489" duration="1161000" />
+      <workItem from="1606180282426" duration="4500000" />
+      <workItem from="1606223995301" duration="3340000" />
+      <workItem from="1606268807510" duration="9214000" />
+      <workItem from="1606286272682" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606273888840">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="194" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1464.837@0.27.1464.837" timestamp="1606273888840" />
+    <state x="413" y="248" width="633" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606225133107">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="413" y="248" width="633" height="408" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1464.837@0.27.1464.837" timestamp="1606225133107" />
+    <state x="477" y="129" width="506" height="645" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606061764205">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="477" y="129" width="506" height="645" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1464.837@0.27.1464.837" timestamp="1606061764205" />
+    <state x="518" y="153" width="424" height="496" key="FileChooserDialogImpl" timestamp="1606286344243">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="518" y="153" width="424" height="496" key="FileChooserDialogImpl/0.27.1464.837@0.27.1464.837" timestamp="1606286344243" />
+    <state x="353" y="181" width="449" height="573" key="NewPhpClassDialog" timestamp="1606231168380">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="353" y="181" width="449" height="573" key="NewPhpClassDialog/0.27.1464.837@0.27.1464.837" timestamp="1606231168380" />
+    <state x="896" y="346" width="399" height="161" key="NewPhpFileDialog" timestamp="1606273610369">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="896" y="346" width="399" height="161" key="NewPhpFileDialog/0.27.1464.837@0.27.1464.837" timestamp="1606273610369" />
+    <state x="224" y="76" width="1016" height="742" key="SettingsEditor" timestamp="1605320986870">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="224" y="76" width="1016" height="742" key="SettingsEditor/0.27.1464.837@0.27.1464.837" timestamp="1605320986870" />
+    <state x="395" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1606273364392">
+      <screen x="0" y="27" width="1464" height="837" />
+    </state>
+    <state x="395" y="185" width="672" height="678" key="search.everywhere.popup/0.27.1464.837@0.27.1464.837" timestamp="1606273364392" />
+  </component>
+</project>
